@@ -11,7 +11,7 @@
             <span id="avatar"><img src="assets/img/avatar.jpg" alt=""></span>
             <article>
                 <h2>云起</h2>
-                <p>溪云初起，山雨欲来</p>
+                <p id="intro">溪云初起，山雨欲来</p>
             </article>
         </aside>
 
@@ -26,4 +26,11 @@
             </article>
         </div>
 </body>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="assets/js/jquery.arctext.js"></script>
+<script>
+$(function(){
+    $('#intro').arctext({radius: 100, dir:-1, rotate: true});
+})
+</script>
 </html>
