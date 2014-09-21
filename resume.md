@@ -14,7 +14,6 @@
  - Github: https://github.com/yangf332
 
  - 期望职位：Web开发者、PHP程序员
- - 期望薪资：税前月薪15k~20k
  - 期望城市：上海
 
 ---
@@ -70,7 +69,7 @@
 
 # 部分作品链接
 
-- http://www.faceui.com/  （ aceui官网 ）
+- http://www.faceui.com/  （ faceui官网 ）
 - http://www.sumr.org/    （ sumr宣传网站 ）
 - http://yueyangyy.com/   （ 岳阳医院 ）
 - http://www.lib.gov.cn/  （ 中国数字图书馆公众健康分馆 ）
